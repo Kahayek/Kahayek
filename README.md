@@ -4,6 +4,6 @@
 
 # Kahay
 
-Just a profile. Nice to meet you.
+Hi.
 
 </div>
