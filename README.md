@@ -6,4 +6,6 @@
 
 Hi. i make simple stuff
 
+![Najczęściej używane języki](https://vercel.app)
+
 </div>
