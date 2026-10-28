@@ -3,7 +3,7 @@
 
 # Kahay
 
-Hi. i make simple stuff
+Hi.
 
 
 </div>
